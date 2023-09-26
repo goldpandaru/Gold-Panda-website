@@ -1,6 +1,6 @@
 theme: Cayman
 plugins:
-  -jekyll-seo-tag
+  - jekyll-seo-tag
 
 title: Mean Mint
 description: We love making games!
